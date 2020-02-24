@@ -1,0 +1,51 @@
+holiday,date,year,bank
+Christmas Day,12/25/2020,2020,TRUE
+Christmas Day,12/25/2021,2021,TRUE
+Christmas Day,12/25/2022,2022,TRUE
+Christmas Day,12/25/2023,2023,TRUE
+Christmas Day,12/25/2024,2024,TRUE
+Columbus Day,10/12/2020,2020,TRUE
+Columbus Day,10/11/2021,2021,TRUE
+Columbus Day,10/10/2022,2022,TRUE
+Columbus Day,10/9/2023,2023,TRUE
+Columbus Day,10/14/2024,2024,TRUE
+Independence Day,7/4/2020,2020,TRUE
+Independence Day,7/4/2021,2021,TRUE
+Independence Day,7/4/2022,2022,TRUE
+Independence Day,7/4/2023,2023,TRUE
+Independence Day,7/4/2024,2024,TRUE
+Labor Day,9/7/2020,2020,TRUE
+Labor Day,9/6/2021,2021,TRUE
+Labor Day,9/5/2022,2022,TRUE
+Labor Day,9/4/2023,2023,TRUE
+Labor Day,9/2/2024,2024,TRUE
+Martin Luther King Jr. Day,1/20/2020,2020,TRUE
+Martin Luther King Jr. Day,1/18/2021,2021,TRUE
+Martin Luther King Jr. Day,1/17/2022,2022,TRUE
+Martin Luther King Jr. Day,1/16/2023,2023,TRUE
+Martin Luther King Jr. Day,1/15/2024,2024,TRUE
+Memorial Day,5/25/2020,2020,TRUE
+Memorial Day,5/31/2021,2021,TRUE
+Memorial Day,5/30/2022,2022,TRUE
+Memorial Day,5/29/2023,2023,TRUE
+Memorial Day,5/27/2024,2024,TRUE
+New Year's Day,1/1/2020,2020,TRUE
+New Year's Day,1/1/2021,2021,TRUE
+New Year's Day,1/1/2022,2022,TRUE
+New Year's Day,1/1/2023,2023,TRUE
+New Year's Day,1/1/2024,2024,TRUE
+Presidents Day,2/17/2020,2020,TRUE
+Presidents Day,2/15/2021,2021,TRUE
+Presidents Day,2/21/2022,2022,TRUE
+Presidents Day,2/20/2023,2023,TRUE
+Presidents Day,2/19/2024,2024,TRUE
+Thanksgiving Day,11/26/2020,2020,TRUE
+Thanksgiving Day,11/25/2020,2021,TRUE
+Thanksgiving Day,11/24/2020,2022,TRUE
+Thanksgiving Day,11/23/2020,2023,TRUE
+Thanksgiving Day,11/28/2020,2024,TRUE
+Veterans Day,11/11/2020,2020,TRUE
+Veterans Day,11/11/2021,2021,TRUE
+Veterans Day,11/11/2022,2022,TRUE
+Veterans Day,11/11/2023,2023,TRUE
+Veterans Day,11/11/2024,2024,TRUE
